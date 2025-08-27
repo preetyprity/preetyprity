@@ -3,8 +3,10 @@
 Welcome to my GitHub profile. This repository contains configuration files for my GitHub profile.
 
 ## About Me
-- Passionate about coding and software development.
-- Currently working on Family Expense Manager project.
+- Passionate about Cyber Security and Web development.
+- Currently working on Family Expense Manager project
+- Attendance System
+- Password Locking System
 
 ## Skills
 -C,C++
@@ -15,4 +17,4 @@ Welcome to my GitHub profile. This repository contains configuration files for m
 - Basic Web Development
 
 ## Contact
-- Email: preety@example.com
+- Email: pritydaskuttisuna@gmail.com
